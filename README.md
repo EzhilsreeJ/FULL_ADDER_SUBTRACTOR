@@ -100,7 +100,7 @@ endmodule
 
 #  FULL SUBTRACTOR:  
 
-![image](https://github.com/user-attachments/assets/0782e03b-ce96-4cc0-b05a-b11c21e14969)
+![image](https://github.com/user-attachments/assets/3abd4f65-cc9f-46da-96a1-d336648b2f74)
 
  # RTL Schematic  
 
