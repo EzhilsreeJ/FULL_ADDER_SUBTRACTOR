@@ -120,9 +120,7 @@ endmodule
 
 
 #  FULL SUBTRACTOR  
-
-![image](https://github.com/user-attachments/assets/10ea9a38-0aca-4e0c-8645-6c16915706f0)
-
+![image](https://github.com/user-attachments/assets/9debf92f-c87f-45bc-b147-fccbf5c2b190)
 
 #  Result:  
 
