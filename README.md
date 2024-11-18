@@ -100,7 +100,7 @@ endmodule
 
 #  FULL SUBTRACTOR:  
 
-![DE E-4 subtractor truth table](https://github.com/04Varsha/FULL_ADDER_SUBTRACTOR/assets/149035374/33d8ba16-9169-40b0-8696-3bb8e5c3a0b7)
+![image](https://github.com/user-attachments/assets/0782e03b-ce96-4cc0-b05a-b11c21e14969)
 
  # RTL Schematic  
 
