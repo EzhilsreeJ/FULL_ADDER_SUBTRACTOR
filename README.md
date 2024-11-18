@@ -115,6 +115,10 @@ endmodule
 
 #  Output Timing Waveform  
 
+# FULL ADDER:
+![image](https://github.com/user-attachments/assets/12396e7b-7b47-4137-9aa7-b7d38e54fd7d)
+
+
 #  FULL SUBTRACTOR  
 
 ![image](https://github.com/user-attachments/assets/10ea9a38-0aca-4e0c-8645-6c16915706f0)
